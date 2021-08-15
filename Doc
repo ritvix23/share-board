@@ -1,0 +1,42 @@
+Workflow--->
+
+
+
+1. Copy a variable text to clipboard.     			[Done]
+2. Client side implementation of websocket(receiver).		[Done]
+3. Integrating websocket and clipboard.				[Done]
+4. Work around for reverse process.
+5. Implement the whole client(sender+receiver).
+6. Making it a background service.
+
+
+
+
+Problems to be addressed - 
+1. Not every screen/app offers text process toolbars to select shareboard in mobile.
+2. 
+
+
+How to use - 
+
+1. In terminal, 
+
+	python3 servernew.py
+
+2. in new terminal- 
+
+	python3 lap_client.py
+	
+You'd see Hello!
+
+3. Connect laptop with phone's hotspot.
+
+4. Go to phone, select some text and tap share-board from hover menu. 
+
+
+
+
+
+
+
+
